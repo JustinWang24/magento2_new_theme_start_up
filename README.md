@@ -5,6 +5,7 @@ Clone this and put into app/design/frontend/{VendorName}.
 Update the theme.xml and registration.php to suit the requirement.
 
 Optional files:
+
 1. composer.json (Remove it if your new theme is not a composer packagist)
 
 2. etc/view.xml
